@@ -44,18 +44,18 @@ projeto também são necessários para uma boa organização do código e facili
 
 ## Produto
 - Gerenciador de arquivos. O software deverá ser desktop e multiplataforma. As funcionalidades do programa são:
-  - [ ] exibição dos arquivos de um diretório;
-  - [ ] abrir arquivo com software adequado;
-  - [ ] renomear arquivo;
-  - [ ] remover arquivo para a lixeira, após confirmação pelo usuário;
-  - [ ] copiar arquivo;
-  - [ ] colar arquivo;
-  - [ ] renomear diretório;
-  - [ ] remover diretório e todos seus os arquivos para a lixeira, após confirmação pelo usuário;
-  - [ ] copiar diretório e todos seus os arquivos;
-  - [ ] colar diretório e todos seus os arquivos;
-  - [ ] abas, onde cada aba poderá exibir um diretório diferente;
-  - [ ] painel lateral com atalho para arquivos e diretórios favoritos.
+  - exibição dos arquivos de um diretório;
+  - abrir arquivo com software adequado;
+  - renomear arquivo;
+  - remover arquivo para a lixeira, após confirmação pelo usuário;
+  - copiar arquivo;
+  - colar arquivo;
+  - renomear diretório;
+  - remover diretório e todos seus os arquivos para a lixeira, após confirmação pelo usuário;
+  - copiar diretório e todos seus os arquivos;
+  - colar diretório e todos seus os arquivos;
+  - abas, onde cada aba poderá exibir um diretório diferente;
+  - painel lateral com atalho para arquivos e diretórios favoritos.
 - O grupo deve elaborar os seguintes diagramas UML do sistema:
   - classe
   - pacote
