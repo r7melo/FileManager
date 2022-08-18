@@ -65,4 +65,23 @@ projeto também são necessários para uma boa organização do código e facili
 - Em seguida, implementar (ou reestruturar) o código do sistema utilizando os princípios SOLID da orientação a objetos. [O Princípio da Inversão de Dependência no Angular](https://andrewrosario.medium.com/o-princ%C3%ADpio-da-invers%C3%A3o-de-depend%C3%AAncia-no-angular-4f876c8b146b) Caso o sistema seja implementado usando programação funcional, a equipe não precisa implementar
 a funcionalidade 12.
 
+## Metodologia
+- Definição dos requisitos do programa;
+- Elaboração dos diagramas UML;
+- Criação do protótipo;
+- Testes com usuários;
+- Ajustes no protótipo;
+- Correções de erros e problemas.
 
+## Critérios do Produto
+- Ao final da disciplina a nota atribuída ao projeto será de acordo com as funcionalidades concluídas e os seguintes itens:
+  - Diagramas UML;
+  - Funcionalidades implementadas;
+  - Interface e interação do programa;
+  - Utilização dos princípios SOLID;
+
+## Cronograma 
+1. 28/09 Marco I
+2. 26/10 Marco II
+3. 30/11 Marco III
+4. 14/12 Apresentação Prova Final
