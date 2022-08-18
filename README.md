@@ -81,7 +81,7 @@ a funcionalidade 12.
   - Utilização dos princípios SOLID;
 
 ## Cronograma 
-1. 28/09 Marco I
-2. 26/10 Marco II
-3. 30/11 Marco III
-4. 14/12 Apresentação Prova Final
+- 28/09 Marco I
+- 26/10 Marco II
+- 30/11 Marco III
+- 14/12 Apresentação Prova Final
