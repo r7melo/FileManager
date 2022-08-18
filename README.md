@@ -43,8 +43,7 @@ equipe, além de encontrar possíveis problemas antes do desenvolvimento do sist
 projeto também são necessários para uma boa organização do código e facilitar a implementação
 
 ## Produto
-Gerenciador de arquivos. O software deverá ser desktop e multiplataforma.
-As funcionalidades do programa são:
+- Gerenciador de arquivos. O software deverá ser desktop e multiplataforma. As funcionalidades do programa são:
   1. exibição dos arquivos de um diretório;
   2. abrir arquivo com software adequado;
   3. renomear arquivo;
@@ -57,5 +56,5 @@ As funcionalidades do programa são:
   10. colar diretório e todos seus os arquivos;
   11. abas, onde cada aba poderá exibir um diretório diferente;
   12. painel lateral com atalho para arquivos e diretórios favoritos.
-O grupo deve elaborar os seguintes diagramas UML do sistema:
- - classe;
+- O grupo deve elaborar os seguintes diagramas UML do sistema:
+  - classe;
