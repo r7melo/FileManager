@@ -57,4 +57,12 @@ projeto também são necessários para uma boa organização do código e facili
   - [ ] abas, onde cada aba poderá exibir um diretório diferente;
   - [ ] painel lateral com atalho para arquivos e diretórios favoritos.
 - O grupo deve elaborar os seguintes diagramas UML do sistema:
-  - classe;
+  - classe
+  - pacote
+  - caso de uso
+  - sequência
+  - máquina de estados ou transição de estados
+- Em seguida, implementar (ou reestruturar) o código do sistema utilizando os princípios SOLID da orientação a objetos. [O Princípio da Inversão de Dependência no Angular](https://andrewrosario.medium.com/o-princ%C3%ADpio-da-invers%C3%A3o-de-depend%C3%AAncia-no-angular-4f876c8b146b) Caso o sistema seja implementado usando programação funcional, a equipe não precisa implementar
+a funcionalidade 12.
+
+
