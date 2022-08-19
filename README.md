@@ -1,6 +1,6 @@
 # UNIVERSIDADE FEDERAL DO CEARÁ - UFC | CAMPUS CRATEÚS | CIÊNCIA DA COMPUTAÇÃO
 
-- *Disciplina:* Projeto Integrador II
+- Disciplina: Projeto Integrador II
 - Amanda Drielly Pires Venceslau
 
 ## Grupo 5 - Gerenciador de Arquivos
