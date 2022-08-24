@@ -2,7 +2,7 @@ package Entity;
 
 public class LightSwitch {
     private boolean status = false;
-    // 
+    
     public String press(){
         status = !status;
         
