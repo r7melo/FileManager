@@ -3,7 +3,7 @@
 - Disciplina: Projeto Integrador II
 - Amanda Drielly Pires Venceslau
 
-## Grupo 5 - Gerenciador de Arquivos
+## Projeto 5 - Gerenciador de Arquivos
 - Protótipo: [FileManager](https://www.figma.com/file/tzFXefhynHIy6kOiF1aBaO/PI2---Prototipo-(Marco-I))
 
 ### Componentes Curriculares Integralizados
