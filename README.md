@@ -4,7 +4,7 @@
 - Amanda Drielly Pires Venceslau
 
 ## [Projeto 5 - Gerenciador de Arquivos](https://github.com/users/r7melo/projects/3/views/1)
-- Protótipo: [FileManager](https://www.figma.com/file/tzFXefhynHIy6kOiF1aBaO/PI2---Prototipo-(Marco-I))
+- Protótipo: [FileManager](https://www.figma.com/proto/tzFXefhynHIy6kOiF1aBaO/PI2---Prototipo-(Marco-I)?node-id=52%3A24&starting-point-node-id=52%3A24)
 
 ### Componentes Curriculares Integralizados
 - CRT0025 - Programação Funcional
