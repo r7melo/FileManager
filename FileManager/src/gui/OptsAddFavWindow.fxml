@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.VBox?>
+
+
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="100.0" prefWidth="181.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Button alignment="TOP_LEFT" mnemonicParsing="false" prefHeight="25.0" prefWidth="265.0" text="    Adicionar aos favoritos">
+         <VBox.margin>
+            <Insets />
+         </VBox.margin>
+      </Button>
+      <Button alignment="TOP_LEFT" mnemonicParsing="false" prefHeight="25.0" prefWidth="287.0" text="    Copiar">
+         <opaqueInsets>
+            <Insets />
+         </opaqueInsets>
+      </Button>
+      <Button alignment="TOP_LEFT" mnemonicParsing="false" prefHeight="25.0" prefWidth="493.0" text="    Apagar" />
+      <Button alignment="TOP_LEFT" mnemonicParsing="false" prefHeight="25.0" prefWidth="427.0" text="    Renomear">
+         <opaqueInsets>
+            <Insets />
+         </opaqueInsets>
+         <VBox.margin>
+            <Insets />
+         </VBox.margin>
+      </Button>
+   </children>
+</VBox>
