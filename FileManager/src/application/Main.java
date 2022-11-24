@@ -24,6 +24,7 @@ public class Main extends Application {
             primaryStage.setTitle("FileManager");
             primaryStage.show();
             
+            
         } catch (IOException e) {
             e.printStackTrace();
         }
