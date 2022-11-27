@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="FileManager.jnlp">
+  <information>
+    <title>FileManager</title>
+    <vendor>antwp</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="FileManager.jar" size="41873" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="application.Main"  name="FileManager" />
+  <update check="always"/>
+</jnlp>

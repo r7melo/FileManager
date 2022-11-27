@@ -3,9 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/C:/Users/romar/source/repos/FileManager/FileManager/src/entities/PointEntityBase.java</file>
             <file>file:/C:/Users/romar/source/repos/FileManager/FileManager/src/controller/MainViewController.java</file>
-            <file>file:/C:/Users/romar/source/repos/FileManager/FileManager/src/entities/PointEntity.java</file>
-            <file>file:/C:/Users/romar/source/repos/FileManager/FileManager/src/interfaces/IPointEntity.java</file>
+            <file>file:/C:/Users/romar/source/repos/FileManager/FileManager/src/entities/RootManager.java</file>
+            <file>file:/C:/Users/romar/source/repos/FileManager/FileManager/src/entities/PathManage.java</file>
         </group>
     </open-files>
 </project-private>
